@@ -15,6 +15,10 @@ To-Do List web app with authorization
 - I want to be able to choose deadline for my task
 - I want to be able to mark a task as 'done'
 
+## Screnshots ##
+
+![Screenshot #1](https://raw.githubusercontent.com/cwayfinder/TodoList/master/docs/screenshot1.PNG)
+![Screenshot #2](https://raw.githubusercontent.com/cwayfinder/TodoList/master/docs/screenshot2.PNG)
 
 ## Instalation ##
 

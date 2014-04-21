@@ -6,6 +6,16 @@ To-Do List web app with authorization
 - Spring core
 - Spring Data JPA
 
+## Functional requirements ##
+
+- I want to be able to create/update/delete projects
+- I want to be able to add tasks to my project
+- I want to be able to update/delete tasks
+- I want to be able to prioritise tasks into a project
+- I want to be able to choose deadline for my task
+- I want to be able to mark a task as 'done'
+
+
 ## Instalation ##
 
 1. Install mysql (or another DBMS and change connection setting in jpaContext.xml)

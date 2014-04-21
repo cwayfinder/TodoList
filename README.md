@@ -18,7 +18,7 @@ To-Do List web app with authorization
 ## Screnshots ##
 
 ![Screenshot #1](https://raw.githubusercontent.com/cwayfinder/TodoList/master/docs/screenshot1.PNG)
-![Screenshot #2](https://raw.githubusercontent.com/cwayfinder/TodoList/master/docs/screenshot2.PNG)
+![Screenshot #2](https://raw.githubusercontent.com/cwayfinder/TodoList/master/docs/screenshot2.png)
 
 ## Instalation ##
 
